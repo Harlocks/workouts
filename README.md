@@ -4,6 +4,7 @@
 </div>
 
 
+<h4>⚡ EXERCÍCIOS </h4>
 
 EXERCÍCIOS | REPETIÇÕES
 :- | :-
@@ -13,3 +14,5 @@ Flexão Isométrica | --- S --- Reps
 Flexão Reflexiva | --- S --- Reps
 Agachamento | --- S --- Reps
 HandGrip 40Kg | -- Esquerdo / --- Direito
+
+<h4> ⚡ ALONGAMENTOS </h4>

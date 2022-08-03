@@ -9,13 +9,13 @@
 EXERCÍCIOS | REPETIÇÕES | TOTAL REPETIÇÕES |
 :- | :-: | :-:
 | ——————————————— | FLEXÕES | ———————————————
-★ Flexão Diamante | 001 S 015 Reps | 15
-★ Flexão Negativa | --- S --- Reps |
-★ Flexão Isométrica | --- S --- Reps |
-★ Flexão Reflexiva | --- S --- Reps |
-★ Flexão com Parallettes | 002 S 015 Reps | 30
+★ Flexão Diamante | 001 S 015 REPS | 15
+★ Flexão Negativa | --- S --- REPS |
+★ Flexão Isométrica | --- S --- REPS |
+★ Flexão Reflexiva | --- S --- REPS |
+★ Flexão com Parallettes | 002 S 015 REPS | 30
 | ——————————————— | PERNA | ———————————————
-★ Agachamento | --- S --- Reps|
+★ Agachamento | --- S --- REPS|
 | ——————————————— | HANDGRIP | ———————————————
 ★ HandGrip [ 40Kg ] | 225 Esquerdo / 225 Direito | 450
 

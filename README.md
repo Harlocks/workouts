@@ -7,12 +7,16 @@
 <h4>⚡ EXERCÍCIOS </h4>
 
 EXERCÍCIOS | REPETIÇÕES | TOTAL REPETIÇÕES |
-:- | :- | :-
-Flexão Diamante | --- S --- Reps | 
-Flexão Negativa | --- S --- Reps | 
-Flexão Isométrica | --- S --- Reps |
-Flexão Reflexiva | --- S --- Reps | 
-Agachamento | --- S --- Reps| 
-HandGrip 40Kg | --- Esquerdo / --- Direito |
+:- | :-: | :-:
+| ——————————————— | FLEXÕES | ———————————————
+★ Flexão Diamante | 001 S 015 Reps |
+★ Flexão Negativa | --- S --- Reps |
+★ Flexão Isométrica | --- S --- Reps |
+★ Flexão Reflexiva | --- S --- Reps |
+★ Flexão com Parallettes | 002 S 015 Reps |
+| ——————————————— | PERNA | ———————————————
+★ Agachamento | --- S --- Reps|
+| ——————————————— | HANDGRIP | ———————————————
+★ HandGrip [ 40Kg ] | 225 Esquerdo / 225 Direito | 450
 
 <h4> ⚡ ALONGAMENTOS </h4>

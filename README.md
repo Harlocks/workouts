@@ -25,5 +25,11 @@ EXERCÍCIOS | REPETIÇÕES | TOTAL REPETIÇÕES |
 ★ Agachamento Arqueiro | --- S --- REPS|
 | **—————————————————** | **HANDGRIP** | **—————————————————**
 ★ HandGrip [ 40Kg ] | 200 Esquerdo / 200 Direito | 850
-
 <h4> ⚡ ALONGAMENTOS </h4>
+
+| ALONGAMENTOS | TEMPO | TOTAL TEMPO
+|:- | :-: | :-: 
+| **—————————————————** | **ESPACATE** | **—————————————————**
+| ★ Espacate Lateral | 50s L 50s M 10s I | 50s L 50s M 10s I
+
+

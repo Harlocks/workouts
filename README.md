@@ -15,7 +15,13 @@ EXERCÍCIOS | REPETIÇÕES | TOTAL REPETIÇÕES |
 ★ Flexão Reflexiva | --- S --- REPS |
 ★ Flexão com Parallettes | 002 S 015 REPS | 30
 | **—————————————————** | **PERNA** | **—————————————————**
-★ Agachamento | --- S --- REPS|
+★ Agachamento Livre | --- S --- REPS|
+★ Elevação de Quadril no Solo | --- S --- REPS|
+★ Passo Acima | --- S --- REPS|
+★ Elevação de Panturillha | --- S --- REPS|
+★ Ponte de glúteos | --- S --- REPS|
+★ Agachamento Pistola | --- S --- REPS|
+★ Agachamento Arqueiro | --- S --- REPS|
 | **—————————————————** | **HANDGRIP** | **—————————————————**
 ★ HandGrip [ 40Kg ] | 225 Esquerdo / 225 Direito | 450
 

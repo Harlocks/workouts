@@ -9,20 +9,21 @@
 EXERCÍCIOS | REPETIÇÕES | TOTAL REPETIÇÕES |
 :- | :-: | :-:
 | **—————————————————** | **FLEXÕES** | **—————————————————**
-★ Flexão Diamante | 001 S 015 REPS | 15
+★ Flexão Diamante | 2 S 20 REPS | 55 + 14
 ★ Flexão Negativa | --- S --- REPS |
 ★ Flexão Isométrica | --- S --- REPS |
 ★ Flexão Reflexiva | --- S --- REPS |
 ★ Flexão com Parallettes | 002 S 015 REPS | 30
+★ Flexão 180º Escápula | 4 S 15 REPS | 60
 | **—————————————————** | **PERNA** | **—————————————————**
-★ Agachamento Livre | --- S --- REPS|
+★ Agachamento Livre | 5 S 15 REPS| 75
 ★ Elevação de Quadril no Solo | --- S --- REPS|
 ★ Passo Acima | --- S --- REPS|
-★ Elevação de Panturillha | --- S --- REPS|
+★ Elevação de Panturillha | 5 S 10 REPS| 50
 ★ Ponte de glúteos | --- S --- REPS|
 ★ Agachamento Pistola | --- S --- REPS|
 ★ Agachamento Arqueiro | --- S --- REPS|
 | **—————————————————** | **HANDGRIP** | **—————————————————**
-★ HandGrip [ 40Kg ] | 225 Esquerdo / 225 Direito | 450
+★ HandGrip [ 40Kg ] | 200 Esquerdo / 200 Direito | 850
 
 <h4> ⚡ ALONGAMENTOS </h4>

@@ -9,12 +9,12 @@
 EXERCÍCIOS | REPETIÇÕES | TOTAL REPETIÇÕES |
 :- | :-: | :-:
 | **—————————————————** | **FLEXÕES** | **—————————————————**
-★ Flexão Diamante | 2 S 20 REPS | 55 + 14
+★ Flexão Diamante | 1 S 14 REPS | 55 + 28
 ★ Flexão Negativa | --- S --- REPS |
 ★ Flexão Isométrica | --- S --- REPS |
 ★ Flexão Reflexiva | --- S --- REPS |
 ★ Flexão com Parallettes | 002 S 015 REPS | 30
-★ Flexão 180º Escápula | 4 S 15 REPS | 60
+★ Flexão 180º Escápula | 6 S 15 REPS | 90 + 13 + 6
 | **—————————————————** | **PERNA** | **—————————————————**
 ★ Agachamento Livre | 5 S 15 REPS| 75
 ★ Elevação de Quadril no Solo | --- S --- REPS|
@@ -30,6 +30,6 @@ EXERCÍCIOS | REPETIÇÕES | TOTAL REPETIÇÕES |
 | ALONGAMENTOS | TEMPO | TOTAL TEMPO
 |:- | :-: | :-: 
 | **—————————————————** | **ESPACATE** | **—————————————————**
-| ★ Espacate Lateral | 50s L 50s M 10s I | 50s L 50s M 10s I
+| ★ Espacate Lateral | 1m30 L 1m30 M 10s I | 2m20 L 2m20 M 20s I
 
 
